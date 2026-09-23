@@ -1,0 +1,11 @@
+D:\SM5\SM5 Lab\C#\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+D:\SM5\SM5 Lab\C#\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+D:\SM5\SM5 Lab\C#\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+D:\SM5\SM5 Lab\C#\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.AssemblyReference.cache
+D:\SM5\SM5 Lab\C#\Assignment1\Assignment1\obj\Debug\Assignment1.Form1.resources
+D:\SM5\SM5 Lab\C#\Assignment1\Assignment1\obj\Debug\Assignment1.Properties.Resources.resources
+D:\SM5\SM5 Lab\C#\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.GenerateResource.cache
+D:\SM5\SM5 Lab\C#\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+D:\SM5\SM5 Lab\C#\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+D:\SM5\SM5 Lab\C#\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
+D:\SM5\SM5 Lab\C#\Assignment1\Assignment1\obj\Debug\Assignment1.exe.config
